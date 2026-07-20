@@ -1,0 +1,222 @@
+[
+    {
+      "Customer_ID": 101,
+      "Name": "Amit",
+      "Age": 25,
+      "Gender": "Male",
+      "City": "Ahmedabad",
+      "Income": 35000,
+      "Purchases": 5,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 102,
+      "Name": "Priya",
+      "Age": 30,
+      "Gender": "Female",
+      "City": "Surat",
+      "Income": 45000,
+      "Purchases": 7,
+      "Membership": "Gold",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 103,
+      "Name": "Rahul",
+      "Age": 35,
+      "Gender": "Male",
+      "City": "Rajkot",
+      "Income": 55000,
+      "Purchases": 9,
+      "Membership": "Gold",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 104,
+      "Name": "Sneha",
+      "Age": null,
+      "Gender": "Female",
+      "City": "Vadodara",
+      "Income": 40000,
+      "Purchases": 6,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 105,
+      "Name": "Karan",
+      "Age": 40,
+      "Gender": "Male",
+      "City": "Ahmedabad",
+      "Income": 65000,
+      "Purchases": 10,
+      "Membership": "Platinum",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 106,
+      "Name": "Divya",
+      "Age": 28,
+      "Gender": "Female",
+      "City": "Surat",
+      "Income": null,
+      "Purchases": 4,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 107,
+      "Name": "Rohan",
+      "Age": 32,
+      "Gender": "Male",
+      "City": "Rajkot",
+      "Income": 50000,
+      "Purchases": 8,
+      "Membership": "Gold",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 108,
+      "Name": "Anjali",
+      "Age": 29,
+      "Gender": "Female",
+      "City": "Vadodara",
+      "Income": 42000,
+      "Purchases": 5,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 109,
+      "Name": "Vikas",
+      "Age": 45,
+      "Gender": "Male",
+      "City": "Ahmedabad",
+      "Income": 80000,
+      "Purchases": 12,
+      "Membership": "Platinum",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 110,
+      "Name": "Neha",
+      "Age": 27,
+      "Gender": "Female",
+      "City": "Surat",
+      "Income": 38000,
+      "Purchases": 4,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 111,
+      "Name": "Arjun",
+      "Age": 31,
+      "Gender": "Male",
+      "City": "Rajkot",
+      "Income": 52000,
+      "Purchases": 8,
+      "Membership": "Gold",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 112,
+      "Name": "Pooja",
+      "Age": 26,
+      "Gender": "Female",
+      "City": "Vadodara",
+      "Income": 39000,
+      "Purchases": 5,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 113,
+      "Name": "Yash",
+      "Age": 38,
+      "Gender": "Male",
+      "City": "Ahmedabad",
+      "Income": 62000,
+      "Purchases": 9,
+      "Membership": "Platinum",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 114,
+      "Name": "Komal",
+      "Age": 34,
+      "Gender": "Female",
+      "City": "Surat",
+      "Income": 47000,
+      "Purchases": 7,
+      "Membership": "Gold",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 115,
+      "Name": "Nikhil",
+      "Age": 41,
+      "Gender": "Male",
+      "City": "Rajkot",
+      "Income": 70000,
+      "Purchases": 11,
+      "Membership": "Platinum",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 116,
+      "Name": "Riya",
+      "Age": 24,
+      "Gender": "Female",
+      "City": "Ahmedabad",
+      "Income": 33000,
+      "Purchases": 3,
+      "Membership": "Silver",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 117,
+      "Name": "Manish",
+      "Age": 36,
+      "Gender": "Male",
+      "City": "Surat",
+      "Income": 58000,
+      "Purchases": 8,
+      "Membership": "Gold",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 118,
+      "Name": "Kajal",
+      "Age": 33,
+      "Gender": "Female",
+      "City": "Vadodara",
+      "Income": 46000,
+      "Purchases": 6,
+      "Membership": "Gold",
+      "Churn": "No"
+    },
+    {
+      "Customer_ID": 119,
+      "Name": "Sachin",
+      "Age": 39,
+      "Gender": "Male",
+      "City": "Rajkot",
+      "Income": 61000,
+      "Purchases": 10,
+      "Membership": "Platinum",
+      "Churn": "Yes"
+    },
+    {
+      "Customer_ID": 120,
+      "Name": "Meera",
+      "Age": 28,
+      "Gender": "Female",
+      "City": "Ahmedabad",
+      "Income": 41000,
+      "Purchases": 5,
+      "Membership": "Silver",
+      "Churn": "No"
+    }
+  ]
