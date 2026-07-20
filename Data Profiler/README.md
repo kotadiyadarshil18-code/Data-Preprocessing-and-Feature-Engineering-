@@ -108,11 +108,11 @@ Files needed in the same directory as the notebook:
 
 ## Part A
 
-*[Add the link to your Part A notebook/document here, if it lives in a separate file or repo section.]*
+*[https://drive.google.com/file/d/1mquXTRj-FDrpMp94XFA_8wuAGECeWrGb/view?usp=sharing]*
 
 ## Demo Video
 
-*[Add a link or embed to your demo/walkthrough video here, e.g. a YouTube link or a GIF showing the notebook running end-to-end.]*
+*[https://drive.google.com/file/d/1THXdgkNR08WIVXORj7fryXgg3_3ooDoz/view?usp=sharing]*
 
 ```md
 [![Watch the demo](thumbnail.png)](https://your-video-link-here)
