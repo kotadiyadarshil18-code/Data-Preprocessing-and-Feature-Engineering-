@@ -18,7 +18,7 @@ The project combines **theoretical imputation/outlier-handling techniques** with
 
 This project demonstrates how proper data cleaning improves data quality and reliability before any statistical analysis or machine learning model is built on top of it.
 
-🎥 **Video Walkthrough:** [Watch here](https://YOUR-VIDEO-LINK-HERE)
+🎥 **Video Walkthrough:** [Watch here](https://drive.google.com/file/d/19CK72FyN-14EqdW-56MU5iDmR4kkka9G/view?usp=sharing)
 
 ---
 
