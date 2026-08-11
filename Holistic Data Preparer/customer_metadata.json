@@ -1,0 +1,4502 @@
+[
+    {
+        "customer_id": "C0001",
+        "age": 34,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 471001.85
+    },
+    {
+        "customer_id": "C0002",
+        "age": 47,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 582371.99
+    },
+    {
+        "customer_id": "C0003",
+        "age": 54,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 526826.66
+    },
+    {
+        "customer_id": "C0004",
+        "age": 64,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 490360.69
+    },
+    {
+        "customer_id": "C0005",
+        "age": 43,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 959929.91
+    },
+    {
+        "customer_id": "C0006",
+        "age": 62,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 459790.89
+    },
+    {
+        "customer_id": "C0007",
+        "age": 38,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 579753.44
+    },
+    {
+        "customer_id": "C0008",
+        "age": 47,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 420709.49
+    },
+    {
+        "customer_id": "C0009",
+        "age": 54,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 494897.84
+    },
+    {
+        "customer_id": "C0010",
+        "age": 60,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 1129663.58
+    },
+    {
+        "customer_id": "C0011",
+        "age": 34,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 514789.81
+    },
+    {
+        "customer_id": "C0012",
+        "age": 27,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1180090.73
+    },
+    {
+        "customer_id": "C0013",
+        "age": 64,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 785567.16
+    },
+    {
+        "customer_id": "C0014",
+        "age": 31,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1020161.72
+    },
+    {
+        "customer_id": "C0015",
+        "age": 54,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 846659.52
+    },
+    {
+        "customer_id": "C0016",
+        "age": 65,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 1228263.48
+    },
+    {
+        "customer_id": "C0017",
+        "age": 64,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1064668.29
+    },
+    {
+        "customer_id": "C0018",
+        "age": 48,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 242477.31
+    },
+    {
+        "customer_id": "C0019",
+        "age": 39,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 774407.93
+    },
+    {
+        "customer_id": "C0020",
+        "age": 63,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 650207.31
+    },
+    {
+        "customer_id": "C0021",
+        "age": 50,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 1753660.63
+    },
+    {
+        "customer_id": "C0022",
+        "age": 28,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 1115071.62
+    },
+    {
+        "customer_id": "C0023",
+        "age": 26,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 468049.23
+    },
+    {
+        "customer_id": "C0024",
+        "age": 53,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 654349.11
+    },
+    {
+        "customer_id": "C0025",
+        "age": 28,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 563144.14
+    },
+    {
+        "customer_id": "C0026",
+        "age": 27,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 408935.33
+    },
+    {
+        "customer_id": "C0027",
+        "age": 45,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 664079.47
+    },
+    {
+        "customer_id": "C0028",
+        "age": 58,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 601148.8
+    },
+    {
+        "customer_id": "C0029",
+        "age": 48,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 774559.44
+    },
+    {
+        "customer_id": "C0030",
+        "age": 36,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 239315.53
+    },
+    {
+        "customer_id": "C0031",
+        "age": 49,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 727373.74
+    },
+    {
+        "customer_id": "C0032",
+        "age": 33,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 504872.04
+    },
+    {
+        "customer_id": "C0033",
+        "age": 28,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 437955.69
+    },
+    {
+        "customer_id": "C0034",
+        "age": 45,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 220285.64
+    },
+    {
+        "customer_id": "C0035",
+        "age": 56,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 472891.14
+    },
+    {
+        "customer_id": "C0036",
+        "age": 24,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 821924.47
+    },
+    {
+        "customer_id": "C0037",
+        "age": 33,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 467111.21
+    },
+    {
+        "customer_id": "C0038",
+        "age": 42,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 609893.3
+    },
+    {
+        "customer_id": "C0039",
+        "age": 49,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 672798.88
+    },
+    {
+        "customer_id": "C0040",
+        "age": 62,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 516295.23
+    },
+    {
+        "customer_id": "C0041",
+        "age": 61,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 805673.3
+    },
+    {
+        "customer_id": "C0042",
+        "age": 64,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 543330.62
+    },
+    {
+        "customer_id": "C0043",
+        "age": 49,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 668188.01
+    },
+    {
+        "customer_id": "C0044",
+        "age": 53,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 1834892.56
+    },
+    {
+        "customer_id": "C0045",
+        "age": 29,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 721686.87
+    },
+    {
+        "customer_id": "C0046",
+        "age": 48,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 975203.14
+    },
+    {
+        "customer_id": "C0047",
+        "age": 59,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 438677.62
+    },
+    {
+        "customer_id": "C0048",
+        "age": 42,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1002426.13
+    },
+    {
+        "customer_id": "C0049",
+        "age": 53,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 255559.05
+    },
+    {
+        "customer_id": "C0050",
+        "age": 43,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 643586.65
+    },
+    {
+        "customer_id": "C0051",
+        "age": 49,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 534679.26
+    },
+    {
+        "customer_id": "C0052",
+        "age": 58,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 656079.64
+    },
+    {
+        "customer_id": "C0053",
+        "age": 51,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 366977.89
+    },
+    {
+        "customer_id": "C0054",
+        "age": 62,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 533496.27
+    },
+    {
+        "customer_id": "C0055",
+        "age": 38,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 544613.12
+    },
+    {
+        "customer_id": "C0056",
+        "age": 25,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 439187.93
+    },
+    {
+        "customer_id": "C0057",
+        "age": 46,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 662189.47
+    },
+    {
+        "customer_id": "C0058",
+        "age": 48,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 1036592.19
+    },
+    {
+        "customer_id": "C0059",
+        "age": 43,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 297945.65
+    },
+    {
+        "customer_id": "C0060",
+        "age": 28,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 718125.5
+    },
+    {
+        "customer_id": "C0061",
+        "age": 59,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 394994.44
+    },
+    {
+        "customer_id": "C0062",
+        "age": 64,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 1572199.18
+    },
+    {
+        "customer_id": "C0063",
+        "age": 43,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 519100.83
+    },
+    {
+        "customer_id": "C0064",
+        "age": 54,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 620652.59
+    },
+    {
+        "customer_id": "C0065",
+        "age": 37,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 544102.11
+    },
+    {
+        "customer_id": "C0066",
+        "age": 56,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 1005750.24
+    },
+    {
+        "customer_id": "C0067",
+        "age": 58,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 1141653.61
+    },
+    {
+        "customer_id": "C0068",
+        "age": 37,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 906693.19
+    },
+    {
+        "customer_id": "C0069",
+        "age": 60,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 638435.01
+    },
+    {
+        "customer_id": "C0070",
+        "age": 38,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 345524.85
+    },
+    {
+        "customer_id": "C0071",
+        "age": 32,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 578849.87
+    },
+    {
+        "customer_id": "C0072",
+        "age": 62,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 629948.02
+    },
+    {
+        "customer_id": "C0073",
+        "age": 44,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 847082.18
+    },
+    {
+        "customer_id": "C0074",
+        "age": 33,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 877489.44
+    },
+    {
+        "customer_id": "C0075",
+        "age": 59,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 661988.84
+    },
+    {
+        "customer_id": "C0076",
+        "age": 33,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1238475.07
+    },
+    {
+        "customer_id": "C0077",
+        "age": 54,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 502013.52
+    },
+    {
+        "customer_id": "C0078",
+        "age": 33,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 827458.22
+    },
+    {
+        "customer_id": "C0079",
+        "age": 27,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 978044.73
+    },
+    {
+        "customer_id": "C0080",
+        "age": 44,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 687140.15
+    },
+    {
+        "customer_id": "C0081",
+        "age": 59,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 690745.19
+    },
+    {
+        "customer_id": "C0082",
+        "age": 24,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 574025.76
+    },
+    {
+        "customer_id": "C0083",
+        "age": 57,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1048413.01
+    },
+    {
+        "customer_id": "C0084",
+        "age": 26,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 1121948.38
+    },
+    {
+        "customer_id": "C0085",
+        "age": 53,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 437173.94
+    },
+    {
+        "customer_id": "C0086",
+        "age": 49,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 1222736.96
+    },
+    {
+        "customer_id": "C0087",
+        "age": 37,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 387605.95
+    },
+    {
+        "customer_id": "C0088",
+        "age": 56,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 729389.81
+    },
+    {
+        "customer_id": "C0089",
+        "age": 57,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 270619.78
+    },
+    {
+        "customer_id": "C0090",
+        "age": 56,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 1623230.75
+    },
+    {
+        "customer_id": "C0091",
+        "age": 48,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 869199.74
+    },
+    {
+        "customer_id": "C0092",
+        "age": 42,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 728618.61
+    },
+    {
+        "customer_id": "C0093",
+        "age": 47,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 466090.9
+    },
+    {
+        "customer_id": "C0094",
+        "age": 34,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 364414.68
+    },
+    {
+        "customer_id": "C0095",
+        "age": 50,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 615518.32
+    },
+    {
+        "customer_id": "C0096",
+        "age": 41,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 977835.81
+    },
+    {
+        "customer_id": "C0097",
+        "age": 54,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 702181.42
+    },
+    {
+        "customer_id": "C0098",
+        "age": 43,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 725180.29
+    },
+    {
+        "customer_id": "C0099",
+        "age": 57,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 1002773.97
+    },
+    {
+        "customer_id": "C0100",
+        "age": 35,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1421784.11
+    },
+    {
+        "customer_id": "C0101",
+        "age": 26,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 535923.16
+    },
+    {
+        "customer_id": "C0102",
+        "age": 32,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 783756.93
+    },
+    {
+        "customer_id": "C0103",
+        "age": 59,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 746575.63
+    },
+    {
+        "customer_id": "C0104",
+        "age": 44,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1648587.4
+    },
+    {
+        "customer_id": "C0105",
+        "age": 30,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1006664.83
+    },
+    {
+        "customer_id": "C0106",
+        "age": 31,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 646120.02
+    },
+    {
+        "customer_id": "C0107",
+        "age": 58,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 420889.44
+    },
+    {
+        "customer_id": "C0108",
+        "age": 60,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 510103.79
+    },
+    {
+        "customer_id": "C0109",
+        "age": 27,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 856084.47
+    },
+    {
+        "customer_id": "C0110",
+        "age": 21,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 298992.64
+    },
+    {
+        "customer_id": "C0111",
+        "age": 43,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 604519.09
+    },
+    {
+        "customer_id": "C0112",
+        "age": 21,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 875319.2
+    },
+    {
+        "customer_id": "C0113",
+        "age": 56,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 1555881.77
+    },
+    {
+        "customer_id": "C0114",
+        "age": 33,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 1160143.58
+    },
+    {
+        "customer_id": "C0115",
+        "age": 36,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 2334075.69
+    },
+    {
+        "customer_id": "C0116",
+        "age": 59,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1355787.6
+    },
+    {
+        "customer_id": "C0117",
+        "age": 23,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 881580.39
+    },
+    {
+        "customer_id": "C0118",
+        "age": 50,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 399884.07
+    },
+    {
+        "customer_id": "C0119",
+        "age": 21,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 850837.32
+    },
+    {
+        "customer_id": "C0120",
+        "age": 59,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 299094.55
+    },
+    {
+        "customer_id": "C0121",
+        "age": 42,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 673697.0
+    },
+    {
+        "customer_id": "C0122",
+        "age": 56,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 914560.25
+    },
+    {
+        "customer_id": "C0123",
+        "age": 61,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 578933.35
+    },
+    {
+        "customer_id": "C0124",
+        "age": 39,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1057774.98
+    },
+    {
+        "customer_id": "C0125",
+        "age": 57,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 452451.03
+    },
+    {
+        "customer_id": "C0126",
+        "age": 28,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 707534.55
+    },
+    {
+        "customer_id": "C0127",
+        "age": 50,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 641294.05
+    },
+    {
+        "customer_id": "C0128",
+        "age": 24,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 600569.18
+    },
+    {
+        "customer_id": "C0129",
+        "age": 33,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 781306.81
+    },
+    {
+        "customer_id": "C0130",
+        "age": 29,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 506887.86
+    },
+    {
+        "customer_id": "C0131",
+        "age": 30,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 315036.32
+    },
+    {
+        "customer_id": "C0132",
+        "age": 42,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 474937.51
+    },
+    {
+        "customer_id": "C0133",
+        "age": 47,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 469227.88
+    },
+    {
+        "customer_id": "C0134",
+        "age": 53,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 633344.08
+    },
+    {
+        "customer_id": "C0135",
+        "age": 54,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 555983.4
+    },
+    {
+        "customer_id": "C0136",
+        "age": 41,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 919503.05
+    },
+    {
+        "customer_id": "C0137",
+        "age": 60,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 931582.91
+    },
+    {
+        "customer_id": "C0138",
+        "age": 59,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 302546.15
+    },
+    {
+        "customer_id": "C0139",
+        "age": 35,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 709313.18
+    },
+    {
+        "customer_id": "C0140",
+        "age": 59,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 1062693.78
+    },
+    {
+        "customer_id": "C0141",
+        "age": 33,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1499729.77
+    },
+    {
+        "customer_id": "C0142",
+        "age": 52,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1095316.32
+    },
+    {
+        "customer_id": "C0143",
+        "age": 37,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 365699.68
+    },
+    {
+        "customer_id": "C0144",
+        "age": 26,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 730253.64
+    },
+    {
+        "customer_id": "C0145",
+        "age": 40,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 665785.21
+    },
+    {
+        "customer_id": "C0146",
+        "age": 45,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 480943.7
+    },
+    {
+        "customer_id": "C0147",
+        "age": 54,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 658379.84
+    },
+    {
+        "customer_id": "C0148",
+        "age": 36,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 471852.45
+    },
+    {
+        "customer_id": "C0149",
+        "age": 33,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 1193839.01
+    },
+    {
+        "customer_id": "C0150",
+        "age": 63,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 329091.01
+    },
+    {
+        "customer_id": "C0151",
+        "age": 30,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 554002.89
+    },
+    {
+        "customer_id": "C0152",
+        "age": 24,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 362177.86
+    },
+    {
+        "customer_id": "C0153",
+        "age": 59,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 344466.48
+    },
+    {
+        "customer_id": "C0154",
+        "age": 60,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 932987.68
+    },
+    {
+        "customer_id": "C0155",
+        "age": 45,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 277335.89
+    },
+    {
+        "customer_id": "C0156",
+        "age": 33,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 747805.75
+    },
+    {
+        "customer_id": "C0157",
+        "age": 48,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 440731.34
+    },
+    {
+        "customer_id": "C0158",
+        "age": 54,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 1129617.41
+    },
+    {
+        "customer_id": "C0159",
+        "age": 58,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 472353.83
+    },
+    {
+        "customer_id": "C0160",
+        "age": 24,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 868736.89
+    },
+    {
+        "customer_id": "C0161",
+        "age": 31,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 632224.3
+    },
+    {
+        "customer_id": "C0162",
+        "age": 31,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 1130081.46
+    },
+    {
+        "customer_id": "C0163",
+        "age": 38,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 337466.32
+    },
+    {
+        "customer_id": "C0164",
+        "age": 39,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 537675.4
+    },
+    {
+        "customer_id": "C0165",
+        "age": 64,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 520142.18
+    },
+    {
+        "customer_id": "C0166",
+        "age": 50,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1122666.26
+    },
+    {
+        "customer_id": "C0167",
+        "age": 40,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 427811.41
+    },
+    {
+        "customer_id": "C0168",
+        "age": 50,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 671496.25
+    },
+    {
+        "customer_id": "C0169",
+        "age": 40,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 384537.7
+    },
+    {
+        "customer_id": "C0170",
+        "age": 29,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 1303938.94
+    },
+    {
+        "customer_id": "C0171",
+        "age": 62,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 266754.76
+    },
+    {
+        "customer_id": "C0172",
+        "age": 22,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 575915.0
+    },
+    {
+        "customer_id": "C0173",
+        "age": 29,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1285525.07
+    },
+    {
+        "customer_id": "C0174",
+        "age": 50,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 771821.06
+    },
+    {
+        "customer_id": "C0175",
+        "age": 36,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1019154.25
+    },
+    {
+        "customer_id": "C0176",
+        "age": 34,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 626406.78
+    },
+    {
+        "customer_id": "C0177",
+        "age": 63,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 690452.55
+    },
+    {
+        "customer_id": "C0178",
+        "age": 48,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 788179.84
+    },
+    {
+        "customer_id": "C0179",
+        "age": 35,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 490375.44
+    },
+    {
+        "customer_id": "C0180",
+        "age": 64,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 693810.95
+    },
+    {
+        "customer_id": "C0181",
+        "age": 44,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 904946.55
+    },
+    {
+        "customer_id": "C0182",
+        "age": 29,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 668362.71
+    },
+    {
+        "customer_id": "C0183",
+        "age": 45,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 456189.99
+    },
+    {
+        "customer_id": "C0184",
+        "age": 58,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 456664.57
+    },
+    {
+        "customer_id": "C0185",
+        "age": 61,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 508140.71
+    },
+    {
+        "customer_id": "C0186",
+        "age": 47,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 877069.41
+    },
+    {
+        "customer_id": "C0187",
+        "age": 39,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 464656.49
+    },
+    {
+        "customer_id": "C0188",
+        "age": 23,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 482643.71
+    },
+    {
+        "customer_id": "C0189",
+        "age": 46,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 911038.82
+    },
+    {
+        "customer_id": "C0190",
+        "age": 38,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 443459.23
+    },
+    {
+        "customer_id": "C0191",
+        "age": 60,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 914294.38
+    },
+    {
+        "customer_id": "C0192",
+        "age": 65,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 355660.41
+    },
+    {
+        "customer_id": "C0193",
+        "age": 38,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1078992.64
+    },
+    {
+        "customer_id": "C0194",
+        "age": 45,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 870438.39
+    },
+    {
+        "customer_id": "C0195",
+        "age": 45,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 631668.21
+    },
+    {
+        "customer_id": "C0196",
+        "age": 28,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 338341.19
+    },
+    {
+        "customer_id": "C0197",
+        "age": 39,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 1728729.33
+    },
+    {
+        "customer_id": "C0198",
+        "age": 46,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 296450.35
+    },
+    {
+        "customer_id": "C0199",
+        "age": 64,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 535964.92
+    },
+    {
+        "customer_id": "C0200",
+        "age": 54,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 677758.46
+    },
+    {
+        "customer_id": "C0201",
+        "age": 43,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 481212.03
+    },
+    {
+        "customer_id": "C0202",
+        "age": 62,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 709097.56
+    },
+    {
+        "customer_id": "C0203",
+        "age": 52,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 415337.92
+    },
+    {
+        "customer_id": "C0204",
+        "age": 22,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 228603.89
+    },
+    {
+        "customer_id": "C0205",
+        "age": 42,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 463003.41
+    },
+    {
+        "customer_id": "C0206",
+        "age": 64,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 772140.45
+    },
+    {
+        "customer_id": "C0207",
+        "age": 49,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 684028.68
+    },
+    {
+        "customer_id": "C0208",
+        "age": 40,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 799126.83
+    },
+    {
+        "customer_id": "C0209",
+        "age": 30,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 436212.1
+    },
+    {
+        "customer_id": "C0210",
+        "age": 23,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 886443.59
+    },
+    {
+        "customer_id": "C0211",
+        "age": 32,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 874595.53
+    },
+    {
+        "customer_id": "C0212",
+        "age": 65,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 1439286.34
+    },
+    {
+        "customer_id": "C0213",
+        "age": 44,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 363054.18
+    },
+    {
+        "customer_id": "C0214",
+        "age": 38,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 625851.61
+    },
+    {
+        "customer_id": "C0215",
+        "age": 50,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 753317.92
+    },
+    {
+        "customer_id": "C0216",
+        "age": 27,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 997834.6
+    },
+    {
+        "customer_id": "C0217",
+        "age": 55,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 695828.86
+    },
+    {
+        "customer_id": "C0218",
+        "age": 52,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 743430.79
+    },
+    {
+        "customer_id": "C0219",
+        "age": 53,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 454031.83
+    },
+    {
+        "customer_id": "C0220",
+        "age": 54,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 424409.41
+    },
+    {
+        "customer_id": "C0221",
+        "age": 35,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 584254.48
+    },
+    {
+        "customer_id": "C0222",
+        "age": 38,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 689368.28
+    },
+    {
+        "customer_id": "C0223",
+        "age": 52,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 450154.7
+    },
+    {
+        "customer_id": "C0224",
+        "age": 33,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 989386.51
+    },
+    {
+        "customer_id": "C0225",
+        "age": 41,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 681148.65
+    },
+    {
+        "customer_id": "C0226",
+        "age": 38,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 748932.68
+    },
+    {
+        "customer_id": "C0227",
+        "age": 37,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 606107.21
+    },
+    {
+        "customer_id": "C0228",
+        "age": 45,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 266174.63
+    },
+    {
+        "customer_id": "C0229",
+        "age": 45,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 743787.05
+    },
+    {
+        "customer_id": "C0230",
+        "age": 21,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 530794.52
+    },
+    {
+        "customer_id": "C0231",
+        "age": 24,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 423663.45
+    },
+    {
+        "customer_id": "C0232",
+        "age": 30,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 557327.22
+    },
+    {
+        "customer_id": "C0233",
+        "age": 39,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 864823.96
+    },
+    {
+        "customer_id": "C0234",
+        "age": 54,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 617503.05
+    },
+    {
+        "customer_id": "C0235",
+        "age": 58,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 657819.05
+    },
+    {
+        "customer_id": "C0236",
+        "age": 35,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 576413.69
+    },
+    {
+        "customer_id": "C0237",
+        "age": 46,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1769002.72
+    },
+    {
+        "customer_id": "C0238",
+        "age": 38,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1268369.17
+    },
+    {
+        "customer_id": "C0239",
+        "age": 59,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 556980.2
+    },
+    {
+        "customer_id": "C0240",
+        "age": 23,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 254262.14
+    },
+    {
+        "customer_id": "C0241",
+        "age": 35,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 974507.98
+    },
+    {
+        "customer_id": "C0242",
+        "age": 50,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 828914.81
+    },
+    {
+        "customer_id": "C0243",
+        "age": 24,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 796076.62
+    },
+    {
+        "customer_id": "C0244",
+        "age": 30,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 577773.04
+    },
+    {
+        "customer_id": "C0245",
+        "age": 46,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 460260.21
+    },
+    {
+        "customer_id": "C0246",
+        "age": 26,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 495340.36
+    },
+    {
+        "customer_id": "C0247",
+        "age": 47,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 714228.53
+    },
+    {
+        "customer_id": "C0248",
+        "age": 41,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 504991.79
+    },
+    {
+        "customer_id": "C0249",
+        "age": 53,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 756901.56
+    },
+    {
+        "customer_id": "C0250",
+        "age": 61,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 415844.86
+    },
+    {
+        "customer_id": "C0251",
+        "age": 21,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 371232.02
+    },
+    {
+        "customer_id": "C0252",
+        "age": 62,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 642299.52
+    },
+    {
+        "customer_id": "C0253",
+        "age": 49,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 308462.76
+    },
+    {
+        "customer_id": "C0254",
+        "age": 37,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 516166.6
+    },
+    {
+        "customer_id": "C0255",
+        "age": 23,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 275820.77
+    },
+    {
+        "customer_id": "C0256",
+        "age": 40,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 729866.97
+    },
+    {
+        "customer_id": "C0257",
+        "age": 36,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 712839.48
+    },
+    {
+        "customer_id": "C0258",
+        "age": 45,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 313077.33
+    },
+    {
+        "customer_id": "C0259",
+        "age": 42,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 746635.28
+    },
+    {
+        "customer_id": "C0260",
+        "age": 52,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 361655.54
+    },
+    {
+        "customer_id": "C0261",
+        "age": 55,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 658667.21
+    },
+    {
+        "customer_id": "C0262",
+        "age": 37,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 385976.28
+    },
+    {
+        "customer_id": "C0263",
+        "age": 58,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1605624.44
+    },
+    {
+        "customer_id": "C0264",
+        "age": 55,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 923923.95
+    },
+    {
+        "customer_id": "C0265",
+        "age": 56,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1013922.87
+    },
+    {
+        "customer_id": "C0266",
+        "age": 48,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 1037674.91
+    },
+    {
+        "customer_id": "C0267",
+        "age": 57,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 664207.63
+    },
+    {
+        "customer_id": "C0268",
+        "age": 36,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 1097928.15
+    },
+    {
+        "customer_id": "C0269",
+        "age": 64,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 217257.18
+    },
+    {
+        "customer_id": "C0270",
+        "age": 39,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 884343.72
+    },
+    {
+        "customer_id": "C0271",
+        "age": 60,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1499316.55
+    },
+    {
+        "customer_id": "C0272",
+        "age": 51,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 1138554.4
+    },
+    {
+        "customer_id": "C0273",
+        "age": 27,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 1210949.42
+    },
+    {
+        "customer_id": "C0274",
+        "age": 63,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1640808.85
+    },
+    {
+        "customer_id": "C0275",
+        "age": 46,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 706209.15
+    },
+    {
+        "customer_id": "C0276",
+        "age": 43,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 538054.52
+    },
+    {
+        "customer_id": "C0277",
+        "age": 56,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 510690.64
+    },
+    {
+        "customer_id": "C0278",
+        "age": 59,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 591632.93
+    },
+    {
+        "customer_id": "C0279",
+        "age": 41,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 539195.21
+    },
+    {
+        "customer_id": "C0280",
+        "age": 64,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 911558.9
+    },
+    {
+        "customer_id": "C0281",
+        "age": 48,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 455770.87
+    },
+    {
+        "customer_id": "C0282",
+        "age": 23,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 577892.18
+    },
+    {
+        "customer_id": "C0283",
+        "age": 38,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 605212.31
+    },
+    {
+        "customer_id": "C0284",
+        "age": 49,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 716861.86
+    },
+    {
+        "customer_id": "C0285",
+        "age": 49,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 764435.98
+    },
+    {
+        "customer_id": "C0286",
+        "age": 42,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 431463.14
+    },
+    {
+        "customer_id": "C0287",
+        "age": 43,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 686251.49
+    },
+    {
+        "customer_id": "C0288",
+        "age": 55,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 623174.37
+    },
+    {
+        "customer_id": "C0289",
+        "age": 49,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 347606.12
+    },
+    {
+        "customer_id": "C0290",
+        "age": 39,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 523176.38
+    },
+    {
+        "customer_id": "C0291",
+        "age": 34,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 677781.68
+    },
+    {
+        "customer_id": "C0292",
+        "age": 58,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 680675.8
+    },
+    {
+        "customer_id": "C0293",
+        "age": 25,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 930054.51
+    },
+    {
+        "customer_id": "C0294",
+        "age": 44,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 794951.47
+    },
+    {
+        "customer_id": "C0295",
+        "age": 54,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 419744.26
+    },
+    {
+        "customer_id": "C0296",
+        "age": 54,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 948657.2
+    },
+    {
+        "customer_id": "C0297",
+        "age": 27,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 511017.78
+    },
+    {
+        "customer_id": "C0298",
+        "age": 52,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 459206.98
+    },
+    {
+        "customer_id": "C0299",
+        "age": 48,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 486796.78
+    },
+    {
+        "customer_id": "C0300",
+        "age": 21,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 884170.98
+    },
+    {
+        "customer_id": "C0301",
+        "age": 53,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1105903.38
+    },
+    {
+        "customer_id": "C0302",
+        "age": 62,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 779338.84
+    },
+    {
+        "customer_id": "C0303",
+        "age": 23,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 752299.85
+    },
+    {
+        "customer_id": "C0304",
+        "age": 34,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 683485.79
+    },
+    {
+        "customer_id": "C0305",
+        "age": 44,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 465301.65
+    },
+    {
+        "customer_id": "C0306",
+        "age": 45,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 336873.98
+    },
+    {
+        "customer_id": "C0307",
+        "age": 52,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 811289.81
+    },
+    {
+        "customer_id": "C0308",
+        "age": 57,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 528781.3
+    },
+    {
+        "customer_id": "C0309",
+        "age": 22,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 319910.18
+    },
+    {
+        "customer_id": "C0310",
+        "age": 24,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 581592.11
+    },
+    {
+        "customer_id": "C0311",
+        "age": 38,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 450936.61
+    },
+    {
+        "customer_id": "C0312",
+        "age": 53,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 1676320.02
+    },
+    {
+        "customer_id": "C0313",
+        "age": 46,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 756764.69
+    },
+    {
+        "customer_id": "C0314",
+        "age": 32,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 497932.23
+    },
+    {
+        "customer_id": "C0315",
+        "age": 42,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 408015.7
+    },
+    {
+        "customer_id": "C0316",
+        "age": 24,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1046921.82
+    },
+    {
+        "customer_id": "C0317",
+        "age": 36,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 678170.03
+    },
+    {
+        "customer_id": "C0318",
+        "age": 65,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 407731.21
+    },
+    {
+        "customer_id": "C0319",
+        "age": 53,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 524872.73
+    },
+    {
+        "customer_id": "C0320",
+        "age": 45,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1102187.64
+    },
+    {
+        "customer_id": "C0321",
+        "age": 51,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 409760.2
+    },
+    {
+        "customer_id": "C0322",
+        "age": 36,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 836038.08
+    },
+    {
+        "customer_id": "C0323",
+        "age": 34,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 504418.21
+    },
+    {
+        "customer_id": "C0324",
+        "age": 49,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 640374.05
+    },
+    {
+        "customer_id": "C0325",
+        "age": 47,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 442432.01
+    },
+    {
+        "customer_id": "C0326",
+        "age": 42,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 1158788.46
+    },
+    {
+        "customer_id": "C0327",
+        "age": 61,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 512563.13
+    },
+    {
+        "customer_id": "C0328",
+        "age": 54,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 676381.95
+    },
+    {
+        "customer_id": "C0329",
+        "age": 23,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 699266.49
+    },
+    {
+        "customer_id": "C0330",
+        "age": 30,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 403903.99
+    },
+    {
+        "customer_id": "C0331",
+        "age": 57,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 636891.11
+    },
+    {
+        "customer_id": "C0332",
+        "age": 22,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 406260.23
+    },
+    {
+        "customer_id": "C0333",
+        "age": 42,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 943353.39
+    },
+    {
+        "customer_id": "C0334",
+        "age": 33,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1005385.3
+    },
+    {
+        "customer_id": "C0335",
+        "age": 27,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 237125.92
+    },
+    {
+        "customer_id": "C0336",
+        "age": 45,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 651650.57
+    },
+    {
+        "customer_id": "C0337",
+        "age": 30,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 513394.03
+    },
+    {
+        "customer_id": "C0338",
+        "age": 28,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 422021.42
+    },
+    {
+        "customer_id": "C0339",
+        "age": 30,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 664589.82
+    },
+    {
+        "customer_id": "C0340",
+        "age": 55,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 899710.92
+    },
+    {
+        "customer_id": "C0341",
+        "age": 50,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 391741.88
+    },
+    {
+        "customer_id": "C0342",
+        "age": 21,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 397375.96
+    },
+    {
+        "customer_id": "C0343",
+        "age": 51,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 706419.41
+    },
+    {
+        "customer_id": "C0344",
+        "age": 65,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 796886.87
+    },
+    {
+        "customer_id": "C0345",
+        "age": 40,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 668842.11
+    },
+    {
+        "customer_id": "C0346",
+        "age": 60,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 521279.23
+    },
+    {
+        "customer_id": "C0347",
+        "age": 24,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 478464.08
+    },
+    {
+        "customer_id": "C0348",
+        "age": 30,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 279161.88
+    },
+    {
+        "customer_id": "C0349",
+        "age": 47,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 518877.58
+    },
+    {
+        "customer_id": "C0350",
+        "age": 39,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 697631.28
+    },
+    {
+        "customer_id": "C0351",
+        "age": 60,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 671451.19
+    },
+    {
+        "customer_id": "C0352",
+        "age": 28,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 906126.68
+    },
+    {
+        "customer_id": "C0353",
+        "age": 46,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1441402.78
+    },
+    {
+        "customer_id": "C0354",
+        "age": 28,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 688607.05
+    },
+    {
+        "customer_id": "C0355",
+        "age": 46,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 383374.3
+    },
+    {
+        "customer_id": "C0356",
+        "age": 64,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 762548.09
+    },
+    {
+        "customer_id": "C0357",
+        "age": 56,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 664689.17
+    },
+    {
+        "customer_id": "C0358",
+        "age": 62,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1017890.86
+    },
+    {
+        "customer_id": "C0359",
+        "age": 38,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 693784.23
+    },
+    {
+        "customer_id": "C0360",
+        "age": 63,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 456227.23
+    },
+    {
+        "customer_id": "C0361",
+        "age": 37,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 355815.03
+    },
+    {
+        "customer_id": "C0362",
+        "age": 49,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1130187.57
+    },
+    {
+        "customer_id": "C0363",
+        "age": 55,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 658379.11
+    },
+    {
+        "customer_id": "C0364",
+        "age": 33,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 656387.05
+    },
+    {
+        "customer_id": "C0365",
+        "age": 64,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1181333.68
+    },
+    {
+        "customer_id": "C0366",
+        "age": 53,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1756546.86
+    },
+    {
+        "customer_id": "C0367",
+        "age": 61,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 470664.67
+    },
+    {
+        "customer_id": "C0368",
+        "age": 57,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 556634.27
+    },
+    {
+        "customer_id": "C0369",
+        "age": 38,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 605243.22
+    },
+    {
+        "customer_id": "C0370",
+        "age": 51,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 430033.79
+    },
+    {
+        "customer_id": "C0371",
+        "age": 53,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 800546.16
+    },
+    {
+        "customer_id": "C0372",
+        "age": 54,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 690350.7
+    },
+    {
+        "customer_id": "C0373",
+        "age": 55,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 895165.81
+    },
+    {
+        "customer_id": "C0374",
+        "age": 45,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 273672.19
+    },
+    {
+        "customer_id": "C0375",
+        "age": 51,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 394412.48
+    },
+    {
+        "customer_id": "C0376",
+        "age": 42,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 856987.65
+    },
+    {
+        "customer_id": "C0377",
+        "age": 34,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 487931.23
+    },
+    {
+        "customer_id": "C0378",
+        "age": 33,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 777505.77
+    },
+    {
+        "customer_id": "C0379",
+        "age": 36,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1058197.57
+    },
+    {
+        "customer_id": "C0380",
+        "age": 35,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 400454.77
+    },
+    {
+        "customer_id": "C0381",
+        "age": 57,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 586839.95
+    },
+    {
+        "customer_id": "C0382",
+        "age": 51,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1000051.1
+    },
+    {
+        "customer_id": "C0383",
+        "age": 26,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 740228.13
+    },
+    {
+        "customer_id": "C0384",
+        "age": 29,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 637914.8
+    },
+    {
+        "customer_id": "C0385",
+        "age": 61,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 335610.58
+    },
+    {
+        "customer_id": "C0386",
+        "age": 26,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 557188.34
+    },
+    {
+        "customer_id": "C0387",
+        "age": 37,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1430091.72
+    },
+    {
+        "customer_id": "C0388",
+        "age": 35,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 637213.25
+    },
+    {
+        "customer_id": "C0389",
+        "age": 61,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 1115052.95
+    },
+    {
+        "customer_id": "C0390",
+        "age": 58,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 640627.24
+    },
+    {
+        "customer_id": "C0391",
+        "age": 62,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 612252.18
+    },
+    {
+        "customer_id": "C0392",
+        "age": 21,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1342877.19
+    },
+    {
+        "customer_id": "C0393",
+        "age": 43,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 524478.21
+    },
+    {
+        "customer_id": "C0394",
+        "age": 27,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1356589.58
+    },
+    {
+        "customer_id": "C0395",
+        "age": 46,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 1439618.44
+    },
+    {
+        "customer_id": "C0396",
+        "age": 32,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 402647.8
+    },
+    {
+        "customer_id": "C0397",
+        "age": 37,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 768241.53
+    },
+    {
+        "customer_id": "C0398",
+        "age": 53,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 812319.13
+    },
+    {
+        "customer_id": "C0399",
+        "age": 43,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 565177.29
+    },
+    {
+        "customer_id": "C0400",
+        "age": 26,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 451684.54
+    },
+    {
+        "customer_id": "C0401",
+        "age": 61,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 374177.79
+    },
+    {
+        "customer_id": "C0402",
+        "age": 39,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1167082.96
+    },
+    {
+        "customer_id": "C0403",
+        "age": 36,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 552203.13
+    },
+    {
+        "customer_id": "C0404",
+        "age": 59,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 907589.69
+    },
+    {
+        "customer_id": "C0405",
+        "age": 49,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 593817.34
+    },
+    {
+        "customer_id": "C0406",
+        "age": 23,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 556092.3
+    },
+    {
+        "customer_id": "C0407",
+        "age": 29,
+        "gender": "Male",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 429998.12
+    },
+    {
+        "customer_id": "C0408",
+        "age": 49,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 867317.16
+    },
+    {
+        "customer_id": "C0409",
+        "age": 33,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 816048.18
+    },
+    {
+        "customer_id": "C0410",
+        "age": 61,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 790984.55
+    },
+    {
+        "customer_id": "C0411",
+        "age": 22,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 349556.69
+    },
+    {
+        "customer_id": "C0412",
+        "age": 43,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 902913.94
+    },
+    {
+        "customer_id": "C0413",
+        "age": 50,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 485432.77
+    },
+    {
+        "customer_id": "C0414",
+        "age": 40,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 609934.93
+    },
+    {
+        "customer_id": "C0415",
+        "age": 34,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 214034.29
+    },
+    {
+        "customer_id": "C0416",
+        "age": 28,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 834314.31
+    },
+    {
+        "customer_id": "C0417",
+        "age": 62,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 342140.4
+    },
+    {
+        "customer_id": "C0418",
+        "age": 54,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 525415.09
+    },
+    {
+        "customer_id": "C0419",
+        "age": 28,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1136876.67
+    },
+    {
+        "customer_id": "C0420",
+        "age": 45,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 515578.36
+    },
+    {
+        "customer_id": "C0421",
+        "age": 44,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 535152.98
+    },
+    {
+        "customer_id": "C0422",
+        "age": 57,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 1466139.46
+    },
+    {
+        "customer_id": "C0423",
+        "age": 28,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 1007257.97
+    },
+    {
+        "customer_id": "C0424",
+        "age": 21,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 860682.38
+    },
+    {
+        "customer_id": "C0425",
+        "age": 45,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 863611.7
+    },
+    {
+        "customer_id": "C0426",
+        "age": 61,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 607883.35
+    },
+    {
+        "customer_id": "C0427",
+        "age": 40,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 1319610.9
+    },
+    {
+        "customer_id": "C0428",
+        "age": 43,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 501634.8
+    },
+    {
+        "customer_id": "C0429",
+        "age": 35,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 610236.3
+    },
+    {
+        "customer_id": "C0430",
+        "age": 29,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 798457.14
+    },
+    {
+        "customer_id": "C0431",
+        "age": 53,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 601676.07
+    },
+    {
+        "customer_id": "C0432",
+        "age": 49,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 1065597.08
+    },
+    {
+        "customer_id": "C0433",
+        "age": 23,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 565654.96
+    },
+    {
+        "customer_id": "C0434",
+        "age": 46,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 525394.32
+    },
+    {
+        "customer_id": "C0435",
+        "age": 24,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 355559.31
+    },
+    {
+        "customer_id": "C0436",
+        "age": 46,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 562968.74
+    },
+    {
+        "customer_id": "C0437",
+        "age": 63,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 440360.9
+    },
+    {
+        "customer_id": "C0438",
+        "age": 39,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 1071377.12
+    },
+    {
+        "customer_id": "C0439",
+        "age": 43,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 363597.65
+    },
+    {
+        "customer_id": "C0440",
+        "age": 52,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 984691.43
+    },
+    {
+        "customer_id": "C0441",
+        "age": 56,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 402295.75
+    },
+    {
+        "customer_id": "C0442",
+        "age": 42,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 2131670.78
+    },
+    {
+        "customer_id": "C0443",
+        "age": 29,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 587454.89
+    },
+    {
+        "customer_id": "C0444",
+        "age": 30,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1018793.04
+    },
+    {
+        "customer_id": "C0445",
+        "age": 26,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 361205.85
+    },
+    {
+        "customer_id": "C0446",
+        "age": 24,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 479196.3
+    },
+    {
+        "customer_id": "C0447",
+        "age": 30,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 589765.73
+    },
+    {
+        "customer_id": "C0448",
+        "age": 61,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 411387.83
+    },
+    {
+        "customer_id": "C0449",
+        "age": 55,
+        "gender": "Male",
+        "city": "Delhi",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 490599.15
+    },
+    {
+        "customer_id": "C0450",
+        "age": 26,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 469070.19
+    },
+    {
+        "customer_id": "C0451",
+        "age": 63,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 460471.99
+    },
+    {
+        "customer_id": "C0452",
+        "age": 27,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 528161.54
+    },
+    {
+        "customer_id": "C0453",
+        "age": 30,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 396504.83
+    },
+    {
+        "customer_id": "C0454",
+        "age": 36,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 491945.06
+    },
+    {
+        "customer_id": "C0455",
+        "age": 52,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 588456.12
+    },
+    {
+        "customer_id": "C0456",
+        "age": 46,
+        "gender": "Female",
+        "city": "Ahmedabad",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 430160.12
+    },
+    {
+        "customer_id": "C0457",
+        "age": 45,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 255939.58
+    },
+    {
+        "customer_id": "C0458",
+        "age": 40,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 1016349.83
+    },
+    {
+        "customer_id": "C0459",
+        "age": 32,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 528176.39
+    },
+    {
+        "customer_id": "C0460",
+        "age": 65,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 784026.46
+    },
+    {
+        "customer_id": "C0461",
+        "age": 55,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 533668.44
+    },
+    {
+        "customer_id": "C0462",
+        "age": 35,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 1274043.17
+    },
+    {
+        "customer_id": "C0463",
+        "age": 49,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 1107910.62
+    },
+    {
+        "customer_id": "C0464",
+        "age": 22,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 366989.57
+    },
+    {
+        "customer_id": "C0465",
+        "age": 57,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 1162280.58
+    },
+    {
+        "customer_id": "C0466",
+        "age": 48,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 522527.85
+    },
+    {
+        "customer_id": "C0467",
+        "age": 56,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 664588.82
+    },
+    {
+        "customer_id": "C0468",
+        "age": 51,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 713991.41
+    },
+    {
+        "customer_id": "C0469",
+        "age": 64,
+        "gender": "Male",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Post-Graduate",
+        "annual_income": 527715.51
+    },
+    {
+        "customer_id": "C0470",
+        "age": 61,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 1950853.26
+    },
+    {
+        "customer_id": "C0471",
+        "age": 31,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 1392043.82
+    },
+    {
+        "customer_id": "C0472",
+        "age": 39,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Secondary",
+        "annual_income": 693616.54
+    },
+    {
+        "customer_id": "C0473",
+        "age": 65,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 828441.51
+    },
+    {
+        "customer_id": "C0474",
+        "age": 32,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 837642.35
+    },
+    {
+        "customer_id": "C0475",
+        "age": 32,
+        "gender": "Male",
+        "city": "Pune",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 610261.73
+    },
+    {
+        "customer_id": "C0476",
+        "age": 57,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Freelancer",
+        "education_level": "Graduate",
+        "annual_income": 679330.28
+    },
+    {
+        "customer_id": "C0477",
+        "age": 55,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 808089.51
+    },
+    {
+        "customer_id": "C0478",
+        "age": 29,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 833032.59
+    },
+    {
+        "customer_id": "C0479",
+        "age": 64,
+        "gender": "Female",
+        "city": "Jaipur",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 908625.82
+    },
+    {
+        "customer_id": "C0480",
+        "age": 43,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 872734.1
+    },
+    {
+        "customer_id": "C0481",
+        "age": 33,
+        "gender": "Female",
+        "city": "Mumbai",
+        "occupation": "Government",
+        "education_level": "Graduate",
+        "annual_income": 599437.58
+    },
+    {
+        "customer_id": "C0482",
+        "age": 45,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 871764.49
+    },
+    {
+        "customer_id": "C0483",
+        "age": 47,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 835102.6
+    },
+    {
+        "customer_id": "C0484",
+        "age": 57,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Government",
+        "education_level": "Secondary",
+        "annual_income": 260454.44
+    },
+    {
+        "customer_id": "C0485",
+        "age": 36,
+        "gender": "Female",
+        "city": "Bengaluru",
+        "occupation": "Self-Employed",
+        "education_level": "Post-Graduate",
+        "annual_income": 409102.54
+    },
+    {
+        "customer_id": "C0486",
+        "age": 62,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 594958.61
+    },
+    {
+        "customer_id": "C0487",
+        "age": 37,
+        "gender": "Female",
+        "city": "Pune",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 717123.02
+    },
+    {
+        "customer_id": "C0488",
+        "age": 47,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 1160911.68
+    },
+    {
+        "customer_id": "C0489",
+        "age": 53,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Freelancer",
+        "education_level": "Post-Graduate",
+        "annual_income": 609751.02
+    },
+    {
+        "customer_id": "C0490",
+        "age": 36,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 434250.95
+    },
+    {
+        "customer_id": "C0491",
+        "age": 37,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Government",
+        "education_level": "Post-Graduate",
+        "annual_income": 628829.07
+    },
+    {
+        "customer_id": "C0492",
+        "age": 45,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "occupation": "Private",
+        "education_level": "Graduate",
+        "annual_income": 1009040.11
+    },
+    {
+        "customer_id": "C0493",
+        "age": 57,
+        "gender": "Male",
+        "city": "Bengaluru",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 472355.17
+    },
+    {
+        "customer_id": "C0494",
+        "age": 49,
+        "gender": "Female",
+        "city": "Surat",
+        "occupation": "Private",
+        "education_level": "Post-Graduate",
+        "annual_income": 626159.18
+    },
+    {
+        "customer_id": "C0495",
+        "age": 38,
+        "gender": "Male",
+        "city": "Mumbai",
+        "occupation": "Business",
+        "education_level": "Graduate",
+        "annual_income": 650547.26
+    },
+    {
+        "customer_id": "C0496",
+        "age": 59,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Business",
+        "education_level": "Secondary",
+        "annual_income": 289303.69
+    },
+    {
+        "customer_id": "C0497",
+        "age": 65,
+        "gender": "Female",
+        "city": "Delhi",
+        "occupation": "Freelancer",
+        "education_level": "Secondary",
+        "annual_income": 632783.23
+    },
+    {
+        "customer_id": "C0498",
+        "age": 64,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 302240.4
+    },
+    {
+        "customer_id": "C0499",
+        "age": 64,
+        "gender": "Male",
+        "city": "Jaipur",
+        "occupation": "Self-Employed",
+        "education_level": "Graduate",
+        "annual_income": 281035.47
+    },
+    {
+        "customer_id": "C0500",
+        "age": 49,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "occupation": "Self-Employed",
+        "education_level": "Secondary",
+        "annual_income": 1027568.7
+    }
+]

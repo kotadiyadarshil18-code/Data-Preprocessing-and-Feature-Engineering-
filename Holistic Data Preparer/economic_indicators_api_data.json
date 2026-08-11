@@ -1,0 +1,54 @@
+{
+    "source": "Private Project Economic Indicators API",
+    "data": [
+        {
+            "year": 2020,
+            "country": "India",
+            "inflation": 6.62,
+            "gdp_growth": -5.83,
+            "unemployment": 7.86
+        },
+        {
+            "year": 2021,
+            "country": "India",
+            "inflation": 5.51,
+            "gdp_growth": 9.69,
+            "unemployment": 5.98
+        },
+        {
+            "year": 2022,
+            "country": "India",
+            "inflation": 6.7,
+            "gdp_growth": 7.0,
+            "unemployment": 4.82
+        },
+        {
+            "year": 2023,
+            "country": "India",
+            "inflation": 5.65,
+            "gdp_growth": 8.15,
+            "unemployment": 4.17
+        },
+        {
+            "year": 2024,
+            "country": "India",
+            "inflation": 4.95,
+            "gdp_growth": 6.5,
+            "unemployment": 4.2
+        },
+        {
+            "year": 2025,
+            "country": "India",
+            "inflation": 4.6,
+            "gdp_growth": 6.8,
+            "unemployment": 4.1
+        },
+        {
+            "year": 2026,
+            "country": "India",
+            "inflation": 4.4,
+            "gdp_growth": 6.9,
+            "unemployment": 4.0
+        }
+    ]
+}
